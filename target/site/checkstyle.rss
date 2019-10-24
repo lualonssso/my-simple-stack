@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2019</copyright>
     <item>
-      <title>File: 1,
-             Errors: 11,
+      <title>File: 4,
+             Errors: 59,
              Warnings: 0,
              Infos: 0
       </title>
@@ -56,6 +56,48 @@ under the License.
                 </td>
                 <td>
                   11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.example.com/checkstyle.html#deqo.lalo.mysimplestack.SimpleStackImpl.java">deqo/lalo/mysimplestack/SimpleStackImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.example.com/checkstyle.html#deqo.lalo.mysimplestack.Item.java">deqo/lalo/mysimplestack/Item.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.example.com/checkstyle.html#deqo.lalo.mysimplestack.SimpleStack.java">deqo/lalo/mysimplestack/SimpleStack.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
                 </td>
               </tr>
                       </tbody>
