@@ -1,16 +1,20 @@
+/**
+ * Created by Lucia Alonso TP2 Deco-Geco M1 IHM UT3 .
+ */
+
 package deqo.lalo.mysimplestack;
 
 public class Item {
-    private int num;
-    public Item(int num){
-        this.num = num;
+    private Object object;
+    public Item(Object obj){
+        this.object = obj;
     }
 
-    public int getNum() {
-        return num;
+    public Object getNum() {
+        return object;
     }
 
-    public void setNum(int num) {
-        this.num = num;
+    public void setNum(Object obj) {
+        this.object = obj;
     }
 }

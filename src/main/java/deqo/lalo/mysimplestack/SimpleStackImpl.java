@@ -7,7 +7,7 @@ import java.util.List;
 
 public class SimpleStackImpl implements SimpleStack {
 
-    List<Item> stack = new ArrayList<Item>();
+    List<Item> stack = new ArrayList<>();
 
     @Override
     public boolean isEmpty() {

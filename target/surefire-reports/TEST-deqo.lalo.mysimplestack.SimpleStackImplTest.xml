@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\PORTAT~1\AppData\Local\Temp\surefire416070185004845541\surefirebooter13939840164238169500.jar C:\Users\PortatilPapa2\AppData\Local\Temp\surefire416070185004845541 2019-10-24T10-52-46_829-jvmRun1 surefire1388383618490091902tmp surefire_016180830905200824711tmp"/>
+    <property name="sun.java.command" value="C:\Users\PORTAT~1\AppData\Local\Temp\surefire2626585066012250636\surefirebooter1604301847779614709.jar C:\Users\PortatilPapa2\AppData\Local\Temp\surefire2626585066012250636 2019-10-29T14-18-49_999-jvmRun1 surefire3237271110659686134tmp surefire_09569424059161550743tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\PortatilPapa2\Documents\M1_S1\DeCo_GeCo\mysimplestack\target\test-classes;C:\Users\PortatilPapa2\Documents\M1_S1\DeCo_GeCo\mysimplestack\target\classes;C:\Users\PortatilPapa2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\PortatilPapa2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\PORTAT~1\AppData\Local\Temp\surefire416070185004845541\surefirebooter13939840164238169500.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\PORTAT~1\AppData\Local\Temp\surefire2626585066012250636\surefirebooter1604301847779614709.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.2+7-LTS"/>
@@ -65,7 +65,7 @@
   <testcase name="testPeekE" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0"/>
   <testcase name="testPeek" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0"/>
   <testcase name="testPopE" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0"/>
-  <testcase name="testPush" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0"/>
+  <testcase name="testPush" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0.001"/>
   <testcase name="testGetSize" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0"/>
   <testcase name="testIsEmpty" classname="deqo.lalo.mysimplestack.SimpleStackImplTest" time="0"/>
 </testsuite>
