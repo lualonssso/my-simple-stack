@@ -52,7 +52,7 @@ public class SimpleStackImplTest {
     @Test
     public void testPop() {
         SimpleStackImpl simpleStack = new SimpleStackImpl();
-        Item item1 = new Item(4);
+        Item item1 = new Item(5);
         simpleStack.push(item1);
         assertSame(simpleStack.pop(), item1);
         assertTrue(simpleStack.isEmpty());

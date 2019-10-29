@@ -6,7 +6,12 @@ package deqo.lalo.mysimplestack;
 
 public class Item {
     private Object object;
+
     public Item(Object obj){
+        this.object = obj;
+    }
+
+    public void setNum(Object obj) {
         this.object = obj;
     }
 
@@ -14,7 +19,4 @@ public class Item {
         return object;
     }
 
-    public void setNum(Object obj) {
-        this.object = obj;
-    }
 }
